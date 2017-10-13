@@ -1,0 +1,15 @@
+h1 { color: goldenrod; 
+border: solid;
+bold:
+font-size: 42pt;
+}
+
+nav li { border-style: double;
+}
+
+body {
+background: dimgray;
+color: white;
+font-size: 18pt;
+font-family: 'Baloo Tammudu', cursive;
+}
